@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Indie Flower', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Indie Flower', cursive;
+}
+
+html{
+  background-color: rgba(229, 229, 247, 0.6);
+  background-image: url(https://img.freepik.com/fotos-gratis/cartao-branco-amassado_95678-119.jpg?t=st=1667392455~exp=1667393055~hmac=c88559b81a5f031dd3d3ed1cf0251638263a4db3f0b5e4e632b24ce377d4224e);
+  background-size:cover;
+  min-height: 100vh;
+}
